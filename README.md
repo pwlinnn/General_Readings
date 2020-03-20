@@ -1,8 +1,8 @@
 # GeneralReadings(Startups, Programming, ML, AI, Life, etc.)
 
 - Sam Altman
-- [How to be successful](https://blog.samaltman.com/how-to-be-successful)
-- [Productivity](https://blog.samaltman.com/productivity)
+    - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
+    - [Productivity](https://blog.samaltman.com/productivity)
 - Paul Buchheit
     - [Is there more to life than money?](http://paulbuchheit.blogspot.com/2007/12/is-there-more-to-life-than-money.html)
     - [Open as in water, the fluid necessary for life](http://paulbuchheit.blogspot.com/2009/11/open-as-in-water-fluid-necessary-for.html)
