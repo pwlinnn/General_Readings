@@ -24,7 +24,7 @@
     - [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 ---
-[So you wantto be a Research Scientist](https://www.ntu.edu.sg/home/linqiu/So%20you%20want%20to%20be%20a%20Research%20Scientist.pdf)
+- [So you want to be a Research Scientist](https://www.ntu.edu.sg/home/linqiu/So%20you%20want%20to%20be%20a%20Research%20Scientist.pdf)
 - [Career advice for recent Computer Science graduates](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
 - [How to build meaningful relationships after college](https://huyenchip.com/2018/11/16/building-meaningful-relationships.html)
 - [The books that shaped my decade](https://huyenchip.com/2019/12/28/books-that-shaped-my-decade.html)
