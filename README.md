@@ -29,3 +29,5 @@
 - [How to build meaningful relationships after college](https://huyenchip.com/2018/11/16/building-meaningful-relationships.html)
 - [The books that shaped my decade](https://huyenchip.com/2019/12/28/books-that-shaped-my-decade.html)
 - [Four lessons I learned after my first full-time job after college](https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html)
+- [SV Engineer Career, the good, bad, and ugly(Winston Chen)](https://zoom.us/recording/play/kmI8zD_ovrMnP9xghLBhHHkZ_Kfah2u0UwxqD1uSdIggUERQTQcpNsJ4S0S4XtIt?continueMode=true&fbclid=IwAR0DpUTn0KgXJUXcBC7pcgKZ_HFAE69FCdNjGGM7gTmh2RSgJjEELtakS5Y)
+- [如何當上連續創業家的共同創辦人](https://attlin.com/2018/01/15/%e5%a6%82%e4%bd%95%e7%95%b6%e4%b8%8a%e9%80%a3%e7%ba%8c%e5%89%b5%e6%a5%ad%e5%ae%b6%e7%9a%84%e5%85%b1%e5%90%8c%e5%89%b5%e8%be%a6%e4%ba%ba/?fbclid=IwAR0iqfyBazMNN8cYE4l8Q9c0F5-ecEv6ys5JR-Sx7UAj6vyTHasvEY2prkQ)
