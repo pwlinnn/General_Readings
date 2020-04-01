@@ -13,13 +13,12 @@
 
 - Study Algorithm (Princeton one if needed)
 - 刷題刷題刷題！！！
----
+
 # Review
 - System Programming
 - Computer Network Concept Review
 - Probability Review
----
+
 # System Design
----
 - Study Git; what is branches?
 - Study Mit: hacker tool
