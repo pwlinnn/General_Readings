@@ -20,3 +20,6 @@
 - Probability Review
 ---
 # System Design
+---
+- Study Git; what is branches?
+- Study Mit: hacker tool
