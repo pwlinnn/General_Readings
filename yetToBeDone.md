@@ -1,3 +1,4 @@
+
 # Course
 - CMU Database
 - MIT 6.824 distributed system
@@ -22,3 +23,4 @@
 # System Design
 - Study Git; what is branches?
 - Study Mit: hacker tool
+- Data Intensive Application
