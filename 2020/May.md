@@ -1,7 +1,7 @@
 - 陸奇
-    - [](https://kknews.cc/zh-tw/tech/2bxb34e.html)
-    - [](https://www.jishuwen.com/d/pv0x/zh-tw)
-    - [](https://www.chainnews.com/zh-hant/articles/065431839232.htm)
+    - [1.](https://kknews.cc/zh-tw/tech/2bxb34e.html)
+    - [2.](https://www.jishuwen.com/d/pv0x/zh-tw)
+    - [3.](https://www.chainnews.com/zh-hant/articles/065431839232.htm)
 - Inspiration
     - [D.E.Shaw Research](https://www.zhihu.com/question/30454088/answer/49284633)
     - [Robert Mercer & Peter F Brown](https://zhuanlan.zhihu.com/p/22526088)
