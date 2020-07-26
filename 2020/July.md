@@ -1,0 +1,6 @@
+- Research
+    - [An Opinionated Guide to ML Research (John Schulman)](http://joschu.net/blog/opinionated-guide-ml-research.html)
+    - [Getting started in NLP/ML research (UW PhD)](https://www.victorzhong.com/blog/getting-started-in-NLP-ML-research.html)
+    - [Mina Lee's Essay (Stanford PhD)](https://minalee.info/category/essay/)
+    - [Preparing for machine learning interviews (OpenAI research engineer)](https://docs.google.com/document/d/16HWRLv68_a3zDCsehbBb04VxmRLyX9TinKeVVtRJqkE/edit#heading=h.op9mv2ffig8x)
+    - [What are the best ways to pick up Deep Learning skills as an engineer? (Greg Brockman)](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
